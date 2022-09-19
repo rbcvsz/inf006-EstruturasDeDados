@@ -1,2 +1,7 @@
 language = "bash"
 run = "gcc"
+
+[nix]
+
+[nix.channel]
+channel = "stable-22_05"
